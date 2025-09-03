@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/StarterContent/Audio/Collapse01.uasset"
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Material/M_Hielo.uasset"
 			]
 		}
 	]
