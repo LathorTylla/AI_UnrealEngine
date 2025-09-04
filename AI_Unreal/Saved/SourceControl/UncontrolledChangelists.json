@@ -6,7 +6,19 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/StarterContent/Audio/Collapse01.uasset",
-				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Material/M_Hielo.uasset"
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Material/M_Hielo.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Blueprints/BP_SimpleNPC.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Controller/AIC_SimpleController.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/63/EJXIZVUEOS6FX0BPELPHLP.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/RW/QP0AUS4357SZAH85UPDKCN.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JN/35XB7RXPKOA0DBRTXPGP98.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Blueprints/BP_SimpleNPC1.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/BehaviourTree/BT_SimpleNPC.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Tasks/BT.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Tasks/BTTask_MoveToLocation.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Tasks/BTTask_MoveToLocation.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Blackboards/BB_SimpleNpc.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Blackboards/BT_SimpleNpc.uasset"
 			]
 		}
 	]
