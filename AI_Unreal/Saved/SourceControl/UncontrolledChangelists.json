@@ -14,11 +14,21 @@
 				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JN/35XB7RXPKOA0DBRTXPGP98.uasset",
 				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Blueprints/BP_SimpleNPC1.uasset",
 				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/BehaviourTree/BT_SimpleNPC.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Tasks/BTTask_MoveToLocation.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Blackboards/BT_SimpleNpc.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Material/M_SimplePBR.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Assets/drakefire_pistol_low.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Material/MF_STiling.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Assets/base_albedo.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Assets/base_AO.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Assets/base_metallic.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Assets/base_normal.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Assets/base_roughness.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/9V/BQUDFO220DZC8AACX0GE65.uasset",
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Assets/ORM.uasset",
 				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Tasks/BT.uasset",
 				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/Tasks/BTTask_MoveToLocation.uasset",
-				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Tasks/BTTask_MoveToLocation.uasset",
-				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Blackboards/BB_SimpleNpc.uasset",
-				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Blackboards/BT_SimpleNpc.uasset"
+				"D:/Github/AI_UnrealEngine/AI_Unreal/Content/AI/Blackboards/BB_SimpleNpc.uasset"
 			]
 		}
 	]
